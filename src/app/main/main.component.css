@@ -1,0 +1,11 @@
+.mainDiv{
+    width: 660px;
+    height: 500px;
+    border: 1px solid black;
+    background-color: skyblue;
+    margin-top: 30px;
+    margin-left: 240px;
+}
+p{
+    margin-left: 10px;
+}
